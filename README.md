@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rangga alroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rangga alroy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rangga alroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rangga alroy" height="30" width="40" /></a>
+<a href="https://twitter.com/RanggaAlroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rangga alroy" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rangga-alroy-86ba6156/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rangga alroy" height="30" width="40" /></a>
 <a href="https://www.facebook.com/St.Rangga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="St.Rangga" height="30" width="40" /></a>
 </p>
 
